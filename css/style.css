@@ -45,7 +45,7 @@ html {
 }
 
 body {
-  font-family: sans-serif;
+  font-family: "Rubik", sans-serif;
   line-height: 1;
   font-weight: 400;
   color: #555;
@@ -86,9 +86,10 @@ body {
   color: #fff;
   text-decoration: none;
   font-size: 2rem;
+  font-weight: 600;
   padding: 1.6rem 3.2rem;
   border-radius: 9px;
-  /* transition: ; */
+  transition: background-color 0.3s;
 }
 
 .btn--full:link,
@@ -116,4 +117,8 @@ body {
 
 .hero-img {
   width: 100%;
+}
+
+.margin-right-sm {
+  margin-right: 1.6rem !important;
 }
