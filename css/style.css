@@ -9,9 +9,15 @@ FONT SIZE SYSTEM (px)
 
 Font weigths:
 Default: 400
+medium -  500,
+semi-bold - 600, 
+Bold -700
 
 Line heights:
 Default: 1
+
+small - 1.05
+Paragraph default - 1.6
 
 02 - Color system
 - Primary: #e67e22
@@ -30,6 +36,8 @@ Default: 1
 03 - Shadows
 
 04 - Border radius
+
+Default: 9px
 
 05 - Whitespace
 */
