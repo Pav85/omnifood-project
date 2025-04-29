@@ -19,6 +19,10 @@ Default: 1
 small - 1.05
 Paragraph default - 1.6
 
+Letter spacing:
+-0.5px
+0.75px
+
 02 - Color system
 - Primary: #e67e22
 
@@ -105,6 +109,13 @@ body {
 }
 
 .subheading {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: #cf711f;
+  text-transform: uppercase;
+  margin-bottom: 1.6rem;
+  letter-spacing: 0.75px;
 }
 
 .heading-tertiary {
