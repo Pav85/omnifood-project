@@ -132,9 +132,11 @@
 
 .logos {
   display: flex;
+  justify-content: space-around;
 }
 
-.logo img {
+.logos img {
+  height: 3.2rem;
 }
 
 /* ******************************************** */
