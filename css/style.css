@@ -224,6 +224,12 @@
   font-size: 1.8rem;
 }
 
+.meal-icon {
+  height: 2.4rem;
+  width: 2.4rem;
+  color: #cf711f;
+}
+
 .meal-img {
   width: 100%;
 }
