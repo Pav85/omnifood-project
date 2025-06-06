@@ -280,7 +280,12 @@
   list-style: none;
 }
 
+.list-item {
+  font-size: 1.8rem;
+}
+
 .list-icon {
   width: 3rem;
   height: 3rem;
+  color: #cf711f;
 }
