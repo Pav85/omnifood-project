@@ -178,6 +178,12 @@ body {
   padding-bottom: 2px;
 }
 
+.link:hover,
+.link:active {
+  color: #cf711f;
+  border-bottom: 1px solid transparent;
+}
+
 .margin-right-sm {
   margin-right: 1.6rem !important;
 }
