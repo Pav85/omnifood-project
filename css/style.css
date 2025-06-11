@@ -370,6 +370,9 @@
 }
 
 .plan-price {
+  font-size: 7.4rem;
+  font-weight: 600;
+  color: #333;
 }
 
 .plan-text {
