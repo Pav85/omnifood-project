@@ -433,6 +433,10 @@
 /* ******************************************** */
 
 .feature-icon {
+  color: #e67e22;
+  height: 2.4rem;
+  width: 2.4rem;
+  margin-bottom: 3.2rem;
 }
 
 .feature-title {
@@ -443,4 +447,6 @@
 }
 
 .feature-text {
+  font-size: 1.8rem;
+  line-height: 1.8;
 }
