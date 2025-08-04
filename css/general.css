@@ -33,6 +33,8 @@ Letter spacing:
 #eb984e
 
 - Shades:
+#cf711f
+#45260a
 
 - Accents:
 
@@ -180,6 +182,10 @@ body {
 .btn--outline:active {
   background-color: #fdf2e9;
   box-shadow: inset 0 0 0 3px #fff; /* trick to add a border without changing layout */
+}
+
+.btn--form {
+  background-color: #45260a;
 }
 
 .link:link,
