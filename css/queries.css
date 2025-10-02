@@ -124,7 +124,6 @@
 
   .main-nav {
     background-color: #fff;
-    /* background-color: transparent; */
     position: absolute;
     top: 0;
     left: 0;
@@ -134,6 +133,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
+    /* Hide navigation */
+
+    display: none;
   }
 
   .main-nav-list {
