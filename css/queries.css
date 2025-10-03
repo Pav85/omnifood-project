@@ -195,4 +195,8 @@
   .heading-secondary {
     margin-bottom: 4.8rem;
   }
+
+  .pricing-plan {
+    width: 100%;
+  }
 }
