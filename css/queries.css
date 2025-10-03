@@ -191,4 +191,8 @@
     grid-column: 1 / -1;
     justify-self: center;
   }
+
+  .heading-secondary {
+    margin-bottom: 4.8rem;
+  }
 }
