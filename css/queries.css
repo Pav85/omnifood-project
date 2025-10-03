@@ -135,8 +135,9 @@
     justify-content: center;
 
     /* Hide navigation */
+    /* Allows no transitions at all */
 
-    display: none;
+    /* display: none; */
   }
 
   .main-nav-list {
