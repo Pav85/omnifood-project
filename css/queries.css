@@ -199,4 +199,8 @@
   .pricing-plan {
     width: 100%;
   }
+
+  .grid--footer {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 }
