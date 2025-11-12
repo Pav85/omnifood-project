@@ -139,7 +139,7 @@
     /* Hide navigation */
     /* Allows no transitions at all */
 
-    /* display: none; */
+    display: none;
 
     /* 1) Hide navigation visually */
     opacity: 0;
@@ -221,4 +221,21 @@
 /* ******************************************** */
 
 @media (max-width: 34em) {
+  .grid {
+    row-gap: 4.8rem;
+  }
+
+  .grid--2-cols,
+  .grid--3-cols,
+  .grid--4-cols {
+    grid-template-columns: 1fr;
+  }
+
+  .section-hero {
+    padding: 2.4rem 0 6.4rem 0;
+  }
+
+  .hero {
+    padding: 0 3.2rem;
+  }
 }
